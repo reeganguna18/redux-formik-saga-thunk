@@ -1,0 +1,25 @@
+.form-element {
+    width: 500px;
+    background-color: #ece5e5;
+    margin: 100px auto;
+    border: 2px solid black;
+    height: 495px;
+}
+
+.input-form {
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+    justify-content: center;
+    
+}
+
+.input-btn {
+    justify-content: center;
+    display: flex;
+    position: relative;
+    left: 191px;
+    /* bottom: auto; */
+    width: 134px;
+    top: 100px;
+}
